@@ -77,12 +77,11 @@ git clone https://github.com/godotengine/godot-syntax-themes.git "~/Library/Appl
 git clone https://github.com/godotengine/godot-syntax-themes.git "%APPDATA%\Godot\text_editor_themes"
 ```
 
-## Android text editor theme
+### Android
 
-Steps:
-1. Download your desired editor theme file.
-2. In script tab in the editor, go to File > Theme > Import theme.
-3. Select your editor theme.
+1. Download the desired editor theme file (in `.tet` format).
+2. In the editor's Script tab, go to **File > Theme > Import Theme...**.
+3. Select the `.tet` file in the dialog.
 
 ## License
 
